@@ -1,0 +1,19 @@
+
+{
+    "name": "inabhi9/muploadify",
+    "description": "Yii Framework extension for uploading file using Flash",
+    "keywords": ["yii", "extension", "image", "upload", "ajax"],
+    "homepage": "https://github.com/inabhi9/muploadify",
+    "type": "yii-extension",
+    "license": "New BSD",
+    "authors": [
+        {
+            "name": "Abhinav",
+            "email": "in.abhi9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
